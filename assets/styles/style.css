@@ -290,6 +290,10 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 13px;
 }
+.contact-btn:hover{
+    background-color: green;
+    cursor:pointer;
+}
 footer{
     display: flex;
     flex-direction: column;
